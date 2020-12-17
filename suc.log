@@ -1,0 +1,65 @@
+2020-12-16 20:32:40.475860: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-12-16 20:32:40.831119: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.831576: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1561] Found device 0 with properties: 
+pciBusID: 0000:01:00.0 name: GeForce GTX 1050 computeCapability: 6.1
+coreClock: 1.493GHz coreCount: 5 deviceMemorySize: 1.96GiB deviceMemoryBandwidth: 104.43GiB/s
+2020-12-16 20:32:40.831886: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-12-16 20:32:40.833748: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2020-12-16 20:32:40.835374: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2020-12-16 20:32:40.835692: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2020-12-16 20:32:40.837404: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2020-12-16 20:32:40.838139: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2020-12-16 20:32:40.841261: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2020-12-16 20:32:40.841390: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.841767: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.842040: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1703] Adding visible gpu devices: 0
+2020-12-16 20:32:40.842323: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2020-12-16 20:32:40.847996: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2499950000 Hz
+2020-12-16 20:32:40.848242: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x563bd27ee460 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-16 20:32:40.848267: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-12-16 20:32:40.848470: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.848796: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1561] Found device 0 with properties: 
+pciBusID: 0000:01:00.0 name: GeForce GTX 1050 computeCapability: 6.1
+coreClock: 1.493GHz coreCount: 5 deviceMemorySize: 1.96GiB deviceMemoryBandwidth: 104.43GiB/s
+2020-12-16 20:32:40.848843: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-12-16 20:32:40.848872: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2020-12-16 20:32:40.848892: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2020-12-16 20:32:40.848909: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2020-12-16 20:32:40.848927: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2020-12-16 20:32:40.848944: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2020-12-16 20:32:40.848974: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2020-12-16 20:32:40.849041: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.849364: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.849636: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1703] Adding visible gpu devices: 0
+2020-12-16 20:32:40.849676: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-12-16 20:32:40.908283: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1102] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-12-16 20:32:40.908318: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1108]      0 
+2020-12-16 20:32:40.908328: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1121] 0:   N 
+2020-12-16 20:32:40.908502: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.908889: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.909221: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-12-16 20:32:40.909523: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1247] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 1736 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1050, pci bus id: 0000:01:00.0, compute capability: 6.1)
+2020-12-16 20:32:40.911650: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x563bd60d8130 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2020-12-16 20:32:40.911674: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): GeForce GTX 1050, Compute Capability 6.1
+2020-12-16 20:32:41.551127: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 172480000 exceeds 10% of free system memory.
+2020-12-16 20:32:42.014595: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+Traceback (most recent call last):
+  File "ClassificationMLP.py", line 54, in <module>
+    validation_data=(X_valid, y_valid))
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py", line 66, in _method_wrapper
+    return method(self, *args, **kwargs)
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/training.py", line 848, in fit
+    tmp_logs = train_function(iterator)
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/eager/def_function.py", line 580, in __call__
+    result = self._call(*args, **kwds)
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/eager/def_function.py", line 611, in _call
+    return self._stateless_fn(*args, **kwds)  # pylint: disable=not-callable
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/eager/function.py", line 2419, in __call__
+    graph_function, args, kwargs = self._maybe_define_function(args, kwargs)
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/eager/function.py", line 2737, in _maybe_define_function
+    cache_key = self._cache_key(args, kwargs)
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/eager/function.py", line 2602, in _cache_key
+    default_graph = ops.get_default_graph()
+  File "/home/sun/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/ops.py", line 5816, in get_default_graph
+    return _default_graph_stack.get_default()
+KeyboardInterrupt

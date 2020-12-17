@@ -1,2 +1,3 @@
 #!/bin/sh
-LD_PRELOAD=./libtcmalloc.so python3 ClassificationMLP.py 2>err.log
+LIB="../tcmalloc/bazel-bin/tcmalloc/libtcmalloc.so"
+LD_PRELOAD=$LIB python3 ClassificationMLP.py 2>err.log
